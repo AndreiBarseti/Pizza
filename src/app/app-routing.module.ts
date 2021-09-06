@@ -8,6 +8,7 @@ import { CartComponent } from './cart/cart.component';
 import { ProfileComponent } from './profile/profile.component';
 //for PR
 // de ce nu mergeeee
+//Doamne ajuta
 const routes: Routes = [
   { path: '', redirectTo:'/login', pathMatch:'full'},
   { path: 'pizza-dashboard', component: PizzaDashboardComponent },
